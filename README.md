@@ -63,8 +63,6 @@ My focus is on **real-world applications** — clean UI, optimized APIs, secure 
 
 ---
 
-# 📊 GitHub Stats
-
 
 # 📊 GitHub Analytics
 
@@ -117,7 +115,8 @@ My focus is on **real-world applications** — clean UI, optimized APIs, secure 
 # 🧬 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit03062&layout=compact&theme=transparent&hide_border=true&title_color=00F5A0&text_color=ffffff"/>
+  <img height="170"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sumit03062&layout=compact&count_private=true&theme=transparent&hide_border=true&title_color=00F5A0&text_color=ffffff"/>
 </p>
 
 ---
