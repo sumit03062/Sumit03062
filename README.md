@@ -73,11 +73,14 @@ My focus is on **real-world applications** — clean UI, optimized APIs, secure 
   <img height="170" src="https://streak-stats.demolab.com?user=sumit03062&theme=transparent&hide_border=true&ring=00F5A0&fire=00D9F5&currStreakLabel=00F5A0"/>
 </p>
 
+------
+
+# 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/sumit03062/sumit03062/output/github-contribution-grid-snake.svg" />
 </p>
----
+
 
 # 💼 Professional Experience
 
@@ -127,13 +130,6 @@ My focus is on **real-world applications** — clean UI, optimized APIs, secure 
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sumit03062/sumit03062/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 # 📫 Connect With Me
 
