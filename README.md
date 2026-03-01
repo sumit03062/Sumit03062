@@ -1,6 +1,26 @@
+<!-- ====================== 3D Animated Gradient Banner ====================== -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sumit03062/sumit03062/output/github-contribution-grid-snake.svg" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5A0,100:00D9F5&height=220&section=header&text=Sumit%20Kumar&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
+
+<!-- ====================== Animated Typing Header ====================== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=00F5A0&center=true&vCenter=true&width=800&lines=Frontend-Focused+Full+Stack+Developer;AI+Integration+Specialist;Laravel+%7C+React+%7C+Python+%7C+AI+Systems;Building+Scalable+Intelligent+Web+Applications" />
+</p>
+
+---
+
+<!-- ====================== Matrix Rain Animation ====================== -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="600"/>
+</p>
+
+---
+
+
 <p align="center">👋 Hi, I'm Sumit Kumar</p>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Frontend-Focused+Full+Stack+Developer;AI+Integration+Specialist;Building+Scalable+Intelligent+Web+Apps;Clean+Architecture+%7C+Secure+Systems+%7C+Modern+UI" /> </p>
 
@@ -52,7 +72,19 @@ My focus is on **real-world applications** — clean UI, optimized APIs, secure 
   
   <img height="170" src="https://streak-stats.demolab.com?user=sumit03062&theme=tokyonight&hide_border=true"/>
 </p>
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sumit03062/sumit03062/output/github-contribution-grid-snake.svg" />
+</p>
 ---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="170" src="https://api.github-readme-stats.vercel.app/api?username=sumit03062&show_icons=true&theme=transparent&hide_border=true&title_color=00F5A0&text_color=ffffff&icon_color=00D9F5"/>
+  <img height="170" src="https://streak-stats.demolab.com?user=sumit03062&theme=transparent&hide_border=true&ring=00F5A0&fire=00D9F5&currStreakLabel=00F5A0"/>
+</p>
 
 # 💼 Professional Experience
 
@@ -86,11 +118,89 @@ My focus is on **real-world applications** — clean UI, optimized APIs, secure 
 * 🤖 AI Product Collaborations
 
 ---
+# 🧬 Top Languages
 
-# 📫 Let’s Connect
-
-📧 Your Email Here
-💼 LinkedIn Profile Link
-🌐 Portfolio Link
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumit03062&layout=compact&theme=transparent&hide_border=true&title_color=00F5A0&text_color=ffffff"/>
+</p>
 
 ---
+
+# 👁️ Visitor Counter
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sumit03062&label=Profile%20Views&color=00F5A0&style=for-the-badge"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sumit03062/sumit03062/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+  <a href="mailto:i amsumitK03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-00F5A0?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sumit-kumar-ab950233a">
+    <img src="https://img.shields.io/badge/LinkedIn-00D9F5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<!-- ====================== Footer Gradient ====================== -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9F5,100:00F5A0&height=120&section=footer"/>
+</p>
+🔥 What This Gives You
+
+Green/Blue gradient theme (matches your Laravel branding)
+
+Animated 3D header
+
+Matrix cyber effect
+
+AI positioning
+
+Recruiter-optimized structure
+
+Dynamic stats
+
+Visitor tracking
+
+Snake animation
+
+Clean professional balance
+
+⚠ Small Fix
+
+In this line:
+
+<a href="mailto:i amsumitK03@gmail.com">
+
+Remove space:
+
+mailto:i amsumitK03@gmail.com ❌
+mailto:iamsumitK03@gmail.com ✅
+
+If you want next level:
+
+Custom SVG animated signature logo (SK monogram)
+
+Custom neon divider lines
+
+Fully minimal executive version
+
+Dark glassmorphism theme
+
+Portfolio landing page matching this theme
+
+Tell me which direction you want next.
