@@ -116,7 +116,7 @@ My focus is on **real-world applications** — clean UI, optimized APIs, secure 
 
 <p align="center">
   <img height="170"
-       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sumit03062&layout=compact&count_private=true&theme=transparent&hide_border=true&title_color=00F5A0&text_color=ffffff"/>
+       src="https://api.github-readme-stats.vercel.app/api/top-langs/?username=sumit03062&layout=compact&count_private=true&theme=transparent&hide_border=true&title_color=00F5A0&text_color=ffffff"/>
 </p>
 
 ---
