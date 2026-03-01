@@ -14,7 +14,7 @@ My focus is on **real-world applications** — clean UI, optimized APIs, secure 
 
 
 
-# 🛠️ Tech Stack (Styled)
+# 🛠️ Tech Stack 
 
 ## 🎨 Frontend
 
